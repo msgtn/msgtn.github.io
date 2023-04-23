@@ -28,11 +28,18 @@ Inspired by mind palaces and anti-dualism, I believe that a mentally logical str
 
 ```
 +------------+
-|            |
-|            |
-|            |
-|            |
-|            |
-|          \ |
+|i|    +--b--|
+|-+          |
+|     +-+    |
+|-+   |c|    |
+|m|   +-+    |
+|p|        \ |
 +--------   \+
+i = me
+b = books
+p = photo
+m = music
+r = robot
+c = craft
 ```
+
