@@ -19,6 +19,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
+    exifr (1.3.10)
     ffi (1.15.5)
     forwardable-extended (2.6.0)
     google-protobuf (3.22.3-arm64-darwin)
@@ -43,7 +44,12 @@ GEM
       webrick (~> 1.7)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-gallery-generator (1.2.4)
+      exifr (~> 1.3)
+      rmagick (~> 4.1.1)
     jekyll-paginate (1.1.0)
+    jekyll-redirect-from (0.16.0)
+      jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
     jekyll-seo-tag (2.8.0)
@@ -68,6 +74,7 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.5)
+    rmagick (4.1.2)
     rouge (4.1.0)
     safe_yaml (1.0.5)
     sass-embedded (1.62.0-arm64-darwin)
@@ -81,6 +88,8 @@ PLATFORMS
   arm64-darwin-22
 
 DEPENDENCIES
+  jekyll-gallery-generator
+  jekyll-redirect-from
   millennial!
 
 BUNDLED WITH

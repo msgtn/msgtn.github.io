@@ -16,11 +16,14 @@ redirect_from:
 </div>
 <!-- I am [Michael Suguitan](https://scholar.google.com/citations?user=LzEyxcsAAAAJ). -->
 
-I am a [PhD graduate from Cornell University](https://scholar.google.com/citations?user=LzEyxcsAAAAJ), where I developed Blossom, an open-source social robot platform. Blossom was designed for accessibility: its hardware and software is open-source, and several researchers have created their own versions of Blossom. [My presentation at the RoboPhilosophy conference sums up the Blossom project](https://www.youtube.com/watch?v=si2D6TpGEFE&feature=youtu.be), which is still ongoing.
+I am a [PhD graduate from Cornell University](https://scholar.google.com/citations?user=LzEyxcsAAAAJ), where I developed Blossom, an [open-source social robot platform](https://github.com/hrc2/blossom-public).
+[Blossom was designed as a critique of mass-manufactured white-and-black LED-illuminated commercial robots](https://spectrum.ieee.org/blossom-a-creative-handmade-approach-to-social-robotics-from-cornell-and-google#toggle-gdpr).
+I worked on Blossom as an [AI research platform](https://www.youtube.com/watch?v=mP8qEnDWCH0) and [telepresence device](https://www.youtube.com/watch?v=5M7a0qXfySc), and others have created their own Blossoms for their own applications.
+[My presentation at the RoboPhilosophy conference sums up the Blossom project](https://www.youtube.com/watch?v=si2D6TpGEFE&feature=youtu.be), which is still ongoing.
 
 Prior to Cornell, I studied mechanical engineering and programming at NC State. My [graduation cap](https://www.youtube.com/watch?v=Xa3o3T9DAQA&ab_channel=MichaelSuguitan) was [kinda](https://www.facebook.com/watch/?v=280843082514460) [famous](https://www.reddit.com/r/gifs/comments/4gzqs6/a_robotic_automatic_wireless_selfturning/). My past work experiences include [NASA MSFC](https://www.nasa.gov/centers/marshall/home/index.html), [Honda Research Institute Japan](http://www.jp.honda-ri.com), and [Facebook AI Research](https://ai.facebook.com/research/). 
 
-Outside of work, I build stuff,
+Outside of work, I [build stuff](/eng),
 photograph stuff,
 and play music stuff.
 <!-- </div> -->

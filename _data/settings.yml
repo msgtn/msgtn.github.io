@@ -10,9 +10,11 @@ menu:
 - {name: 'About',              url: 'about'}
 # - {name: 'Interesting Facts',  url: 'facts'}
 # - {name: 'Learning Resources', url: 'resources'}
-# - {name: 'Sample Posts',       url: 'sample-posts'}
-# - {name: 'Documentation',      url: 'documentation'}
 - {name: 'Engineering',      url: 'eng'}
+# - {name: 'Sample Posts',       url: 'sample-posts'}
+- {name: 'Image',      url: 'image'}
+- {name: 'Music', url: 'music'}
+- {name: 'Text', url: 'Text'}
 - {name: 'Research',        url: 'research'}
 - {name: 'Contact',            url: 'contact'}
 
