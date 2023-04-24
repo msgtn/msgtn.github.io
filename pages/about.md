@@ -2,6 +2,8 @@
 layout: page
 title: ABOUT
 permalink: /about
+redirect_from:
+- /
 ---
 <div width="70%">
     <img src="/assets/img/boku_bw.gif" width="50%">
