@@ -7,7 +7,12 @@ paginate:            5
 markdown:            kramdown
 highlighter:         rouge
 permalink:           /:title
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+plugins:
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-redirect-from
 
 defaults:
   - scope:
@@ -37,8 +42,8 @@ defaults:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Michael Suguitan"
-description:	       "a minimalist Jekyll theme for running a blog or publication"
-author:              "Paul Le"
+description:	       "a website hosted on github.io"
+author:              "Michael Suguitan"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

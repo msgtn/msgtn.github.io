@@ -12,11 +12,10 @@ redirect_from:
         <span style="font-weight:bold">僕は僕だ (I am me)</span>
         <span style="font-size:12px"><i>(Photoshop, OpenCV, MoviePy)</i></span>
     </div>
-
 </div>
 <!-- I am [Michael Suguitan](https://scholar.google.com/citations?user=LzEyxcsAAAAJ). -->
 
-I am a [PhD graduate from Cornell University](https://scholar.google.com/citations?user=LzEyxcsAAAAJ), where I developed Blossom, an [open-source social robot platform](https://github.com/hrc2/blossom-public).
+I am a [PhD graduate from Cornell University](/research), where I developed Blossom, an [open-source social robot platform](https://github.com/hrc2/blossom-public).
 [Blossom was designed as a critique of mass-manufactured white-and-black LED-illuminated commercial robots](https://spectrum.ieee.org/blossom-a-creative-handmade-approach-to-social-robotics-from-cornell-and-google#toggle-gdpr).
 I worked on Blossom as an [AI research platform](https://www.youtube.com/watch?v=mP8qEnDWCH0) and [telepresence device](https://www.youtube.com/watch?v=5M7a0qXfySc), and others have created their own Blossoms for their own applications.
 [My presentation at the RoboPhilosophy conference sums up the Blossom project](https://www.youtube.com/watch?v=si2D6TpGEFE&feature=youtu.be), which is still ongoing.

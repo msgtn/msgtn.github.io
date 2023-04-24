@@ -1,20 +1,27 @@
 .footer {
-  background: white;
-  color: $brand-color;
+  // background: white;
+  // color: $brand-color;
   text-align: center;
   min-height: 56px;
   line-height: 45px;
   width: $container-width;
+  background-color: $body-background-color;
+  color: $body-font-color;
 }
 .footer a {
-  color: $brand-color;
+  // color: $brand-color;
   padding: 0px 10px 0px;
   text-decoration: none;
+  background-color: $body-background-color;
+  color: $body-font-color;
 }
 @media (max-width: $container-width) {
   .footer {
-    background: white;
-    color: $brand-color;
+
+    background-color: $body-background-color;
+    color: $body-font-color;
+    // background: white;
+    // color: $brand-color;
     text-align: center;
     min-height: 56px;
     line-height: 45px;
