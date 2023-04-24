@@ -3,25 +3,25 @@ layout: page
 title: About
 permalink: /about
 ---
+<div width="70%">
+    <img src="/assets/img/boku_bw.gif" width="50%">
+    <div style="text-align:center; font-weight:normal" href="/assets/main.css">
+        <!-- I am Michael Suguitan. -->
+        <span style="font-weight:bold">僕は僕だ (I am me)</span>
+        <span style="font-size:12px"><i>(Photoshop, OpenCV, MoviePy)</i></span>
+    </div>
 
-I am [Michael Suguitan](https://scholar.google.com/citations?user=LzEyxcsAAAAJ).
+</div>
+<!-- I am [Michael Suguitan](https://scholar.google.com/citations?user=LzEyxcsAAAAJ). -->
 
-I am a PhD graduate from Cornell University, where I developed Blossom, an open-source social robot platform. Blossom was designed for accessibility: its hardware and software is open-source, and several researchers have created their own versions of Blossom. [My presentation at the RoboPhilosophy conference sums up the Blossom project](https://www.youtube.com/watch?v=si2D6TpGEFE&feature=youtu.be), which is still ongoing.
+I am a [PhD graduate from Cornell University](https://scholar.google.com/citations?user=LzEyxcsAAAAJ), where I developed Blossom, an open-source social robot platform. Blossom was designed for accessibility: its hardware and software is open-source, and several researchers have created their own versions of Blossom. [My presentation at the RoboPhilosophy conference sums up the Blossom project](https://www.youtube.com/watch?v=si2D6TpGEFE&feature=youtu.be), which is still ongoing.
 
-Prior to Cornell, I studied mechanical engineering and programming at NC State. My graduation cap was kinda famous. My past work experiences include NASA MSFC, Honda Research Institute Japan, and Facebook AI Research. 
-
-<!-- Blossom is a platform for researching generative behaviors through deep neural networks. Through encoder-decoder networks, Blossom 'remixes' user-made movements into autonomously generated behaviors.
-
-Blossom also acts as a telepresence platform, controlled via a smartphone's mobile browser and the remote user's physical movement. -->
-
-
+Prior to Cornell, I studied mechanical engineering and programming at NC State. My [graduation cap](https://www.youtube.com/watch?v=Xa3o3T9DAQA&ab_channel=MichaelSuguitan) was [kinda](https://www.facebook.com/watch/?v=280843082514460) [famous](https://www.reddit.com/r/gifs/comments/4gzqs6/a_robotic_automatic_wireless_selfturning/). My past work experiences include NASA MSFC, Honda Research Institute Japan, and Facebook AI Research. 
 
 Outside of work, I build stuff,
 photograph stuff,
 and play stuff.
+<!-- </div> -->
 
 <!-- ![digital montage](/assets/img/boku_bw.gif){width: 200px;} -->
 <!-- ![digital montage](/assets/img/boku_bw.gif =250x) -->
-<img src="/assets/img/boku_bw.gif" width="200">
-
-僕は僕だ (I am me) - Digital montage (Photoshop, OpenCV, MoviePy)
