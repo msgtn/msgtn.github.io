@@ -1,6 +1,6 @@
 ---
-layout: category
-title: Engineering
+layout: page
+title: ENGINEERING
 category: engineering
 permalink: /eng
 ---

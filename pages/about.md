@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: ABOUT
 permalink: /about
 ---
 <div width="70%">
@@ -16,11 +16,11 @@ permalink: /about
 
 I am a [PhD graduate from Cornell University](https://scholar.google.com/citations?user=LzEyxcsAAAAJ), where I developed Blossom, an open-source social robot platform. Blossom was designed for accessibility: its hardware and software is open-source, and several researchers have created their own versions of Blossom. [My presentation at the RoboPhilosophy conference sums up the Blossom project](https://www.youtube.com/watch?v=si2D6TpGEFE&feature=youtu.be), which is still ongoing.
 
-Prior to Cornell, I studied mechanical engineering and programming at NC State. My [graduation cap](https://www.youtube.com/watch?v=Xa3o3T9DAQA&ab_channel=MichaelSuguitan) was [kinda](https://www.facebook.com/watch/?v=280843082514460) [famous](https://www.reddit.com/r/gifs/comments/4gzqs6/a_robotic_automatic_wireless_selfturning/). My past work experiences include NASA MSFC, Honda Research Institute Japan, and Facebook AI Research. 
+Prior to Cornell, I studied mechanical engineering and programming at NC State. My [graduation cap](https://www.youtube.com/watch?v=Xa3o3T9DAQA&ab_channel=MichaelSuguitan) was [kinda](https://www.facebook.com/watch/?v=280843082514460) [famous](https://www.reddit.com/r/gifs/comments/4gzqs6/a_robotic_automatic_wireless_selfturning/). My past work experiences include [NASA MSFC](https://www.nasa.gov/centers/marshall/home/index.html), [Honda Research Institute Japan](http://www.jp.honda-ri.com), and [Facebook AI Research](https://ai.facebook.com/research/). 
 
 Outside of work, I build stuff,
 photograph stuff,
-and play stuff.
+and play music stuff.
 <!-- </div> -->
 
 <!-- ![digital montage](/assets/img/boku_bw.gif){width: 200px;} -->
