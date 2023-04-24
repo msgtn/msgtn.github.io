@@ -4,4 +4,24 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+I am [Michael Suguitan](https://scholar.google.com/citations?user=LzEyxcsAAAAJ).
+
+I am a PhD graduate from Cornell University, where I developed Blossom, an open-source social robot platform. Blossom was designed for accessibility: its hardware and software is open-source, and several researchers have created their own versions of Blossom. [My presentation at the RoboPhilosophy conference sums up the Blossom project](https://www.youtube.com/watch?v=si2D6TpGEFE&feature=youtu.be), which is still ongoing.
+
+Prior to Cornell, I studied mechanical engineering and programming at NC State. My graduation cap was kinda famous. My past work experiences include NASA MSFC, Honda Research Institute Japan, and Facebook AI Research. 
+
+<!-- Blossom is a platform for researching generative behaviors through deep neural networks. Through encoder-decoder networks, Blossom 'remixes' user-made movements into autonomously generated behaviors.
+
+Blossom also acts as a telepresence platform, controlled via a smartphone's mobile browser and the remote user's physical movement. -->
+
+
+
+Outside of work, I build stuff,
+photograph stuff,
+and play stuff.
+
+<!-- ![digital montage](/assets/img/boku_bw.gif){width: 200px;} -->
+<!-- ![digital montage](/assets/img/boku_bw.gif =250x) -->
+<img src="/assets/img/boku_bw.gif" width="200">
+
+僕は僕だ (I am me) - Digital montage (Photoshop, OpenCV, MoviePy)
