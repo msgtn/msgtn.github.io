@@ -24,8 +24,8 @@ I worked on Blossom as an [AI research platform](https://www.youtube.com/watch?v
 Prior to Cornell, I studied mechanical engineering and programming at NC State. My [graduation cap](https://www.youtube.com/watch?v=Xa3o3T9DAQA&ab_channel=MichaelSuguitan) was [kinda](https://www.facebook.com/watch/?v=280843082514460) [famous](https://www.reddit.com/r/gifs/comments/4gzqs6/a_robotic_automatic_wireless_selfturning/). My past work experiences include [NASA MSFC](https://www.nasa.gov/centers/marshall/home/index.html), [Honda Research Institute Japan](http://www.jp.honda-ri.com), and [Facebook AI Research](https://ai.facebook.com/research/). 
 
 Outside of work, I [build stuff](/eng),
-photograph stuff,
-and play music stuff.
+[photograph stuff](/image),
+and [play music stuff](/music).
 <!-- </div> -->
 
 <!-- ![digital montage](/assets/img/boku_bw.gif){width: 200px;} -->
