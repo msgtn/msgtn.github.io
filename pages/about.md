@@ -6,8 +6,8 @@ redirect_from:
 - /
 ---
 <div width="70%">
-    <!-- <img src="/assets/img/semete.jpg" width="50%"> -->
-    <img src="/assets/img/boku_small.gif" width="50%">
+    <img src="/assets/img/semete.jpg" width="50%">
+    <!-- <img src="/assets/img/boku_small.gif" width="50%"> -->
     <div style="text-align:center; font-weight:normal" href="/assets/main.css">
         <!-- I am Michael Suguitan. -->
         <span style="font-weight:bold">僕は僕だ (I am me)</span>
