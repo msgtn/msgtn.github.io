@@ -5,3 +5,4 @@ _site
 vendor
 *.gif
 !assets/img/boku_small.gif
+_drafts

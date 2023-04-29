@@ -4,7 +4,11 @@ title: RESEARCH
 category: research
 permalink: /research
 ---
-{% lightbox /assets/img/blossom.jpeg %}
+<!-- {% lightbox /assets/img/blossom.jpeg %} -->
+<a data-lightbox="boku" href="/assets/img/blossom.jpeg" width="95%">
+        <img src="/assets/img/blossom.jpeg" width="95%">
+    </a>
+    
 
 I am a [PhD graduate from Cornell University](https://www.linkedin.com/in/msuguitan/), where I developed Blossom, an [open-source social robot platform](https://github.com/hrc2/blossom-public).
 [Blossom was designed as a critique of mass-manufactured white-and-black LED-illuminated commercial robots](https://spectrum.ieee.org/blossom-a-creative-handmade-approach-to-social-robotics-from-cornell-and-google#toggle-gdpr).
