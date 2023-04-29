@@ -4,7 +4,6 @@ title: RESEARCH
 category: research
 permalink: /research
 ---
-<!-- {% lightbox /assets/img/blossom.jpeg %} -->
 <a data-lightbox="boku" href="/assets/img/blossom.jpeg" width="95%">
         <img src="/assets/img/blossom.jpeg" width="95%">
     </a>
