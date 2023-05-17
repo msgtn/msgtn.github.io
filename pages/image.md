@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: category
 title: IMAGE
 category: image
 permalink: /image
