@@ -18,6 +18,13 @@ redirect_from:
     </div>
 </div>
 
+<div style="text-align: right">
+    <i>本来は完璧なはずなのに、<br>
+    どこかが壊れているとか僕は面白いと思う。<br>
+    面白さってそう言う物だと思う。<br>
+    ー庵野秀明</i>
+</div>
+
 I [make](/eng),
 [photograph](/image),
 and [musick](/music).
