@@ -12,7 +12,7 @@ menu:
 - {name: 'Research',        url: 'research'}
 - {name: 'Image',      url: 'image'}
 - {name: 'Music', url: 'music'}
-# - {name: 'Text', url: 'Text'}
+- {name: 'Text', url: 'text'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
