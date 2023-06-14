@@ -18,27 +18,27 @@ My CV is available [here](/assets/pdf/cv.pdf).
 
 ## Journal Papers
 
-[Michael Suguitan and Guy Hoffman. Blossom: A Handcrafted Open-Source Robot. ACM Transactions on Human-Robot Interaction (THRI), 2019.](/assets/pdf/thri-blossom.pdf)
+[**Michael Suguitan** and Guy Hoffman. Blossom: A Handcrafted Open-Source Robot. ACM Transactions on Human-Robot Interaction (THRI), 2019.](/assets/pdf/thri-blossom.pdf)
 
-[Michael Suguitan and Guy Hoffman. What Is It Like to Be a Bot? Variable Perspective Embodied Telepresence for Crowdsourcing Robot Movements. In Personal and Ubiquitous Computing, 2022.](/assets/pdf/ubicomp22-tele.pdf)
+[**Michael Suguitan** and Guy Hoffman. What Is It Like to Be a Bot? Variable Perspective Embodied Telepresence for Crowdsourcing Robot Movements. In Personal and Ubiquitous Computing, 2022.](/assets/pdf/ubicomp22-tele.pdf)
 
-Michael Suguitan, Nick DePalma, Jessica Hodgins, and Guy Hoffman. Face2Gesture: Translating Facial Expressions Into Robot Movements Through Shared Latent Space Neural Networks. ACM Transactions on Human-Robot Interaction (THRI) Special Issue on AI (in revision), 2023.
+**Michael Suguitan**, Nick DePalma, Jessica Hodgins, and Guy Hoffman. Face2Gesture: Translating Facial Expressions Into Robot Movements Through Shared Latent Space Neural Networks. ACM Transactions on Human-Robot Interaction (THRI) Special Issue on AI (in revision), 2023.
 
 ## Conference Papers
 
-[Michael Suguitan, Randy Gomez, and Guy Hoffman. MoveAE: Modifying Affective Robot Movements Using Classifying Variational Autoencoders. In ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2020.](/assets/pdf/hri20-moveae.pdf)
+[**Michael Suguitan**, Randy Gomez, and Guy Hoffman. MoveAE: Modifying Affective Robot Movements Using Classifying Variational Autoencoders. In ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2020.](/assets/pdf/hri20-moveae.pdf)
 
-[Patrícia Alves-Oliveira, Maria Luce Lupetti, Michal Luria, Diana Löffler, Mafalda Gamboa, Lea Albaugh, Waki Kamino, Anastasia K Ostrowski, David Puljiz, Pedro Reynolds-Cuéllar, Marcus Scheunemann, Michael Suguitan, Dan Lockton. Collection of Metaphors for Human-Robot Interaction. In Designing Interactive Systems (DIS), 2021.](/assets/pdf/dis21-metaphors.pdf)
+[Patrícia Alves-Oliveira, Maria Luce Lupetti, Michal Luria, Diana Löffler, Mafalda Gamboa, Lea Albaugh, Waki Kamino, Anastasia K Ostrowski, David Puljiz, Pedro Reynolds-Cuéllar, Marcus Scheunemann, **Michael Suguitan**, Dan Lockton. Collection of Metaphors for Human-Robot Interaction. In Designing Interactive Systems (DIS), 2021.](/assets/pdf/dis21-metaphors.pdf)
 
-[Michael Suguitan. At Least, Be Human: Humanizing the Robot as a Medium for Communication. In RoboPhilosophy, 2022.](/assets/pdf/robophil2022.pdf)
+[**Michael Suguitan**. At Least, Be Human: Humanizing the Robot as a Medium for Communication. In RoboPhilosophy, 2022.](/assets/pdf/robophil2022.pdf)
 
 ## Extended Abstracts​​​​​​​
 
-[Michael Suguitan, Mason Bretan, and Guy Hoffman. Affective Robot Movement Generation Using CycleGANs. In ACM/IEEE International Conference on Human-Robot Interaction (HRI) Late Breaking Reports (Third Place Prize), 2019.](/assets/pdf/hri19-cyclegans.pdf)
+[**Michael Suguitan**, Mason Bretan, and Guy Hoffman. Affective Robot Movement Generation Using CycleGANs. In ACM/IEEE International Conference on Human-Robot Interaction (HRI) Late Breaking Reports (Third Place Prize), 2019.](/assets/pdf/hri19-cyclegans.pdf)
 
-[Michael Suguitan and Guy Hoffman. You Are (Not) The Robot: Variable Perspective Motion Control of a Social Telepresence Robot. In ACM Conference on Human Factors in Computing Systems (CHI) Extended Abstracts, 2021.](/assets/pdf/chi21-tele.pdf)
+[**Michael Suguitan** and Guy Hoffman. You Are (Not) The Robot: Variable Perspective Motion Control of a Social Telepresence Robot. In ACM Conference on Human Factors in Computing Systems (CHI) Extended Abstracts, 2021.](/assets/pdf/chi21-tele.pdf)
 
 ## Miscellaneous
-Michael Suguitan. Robots as Humanizing Post-Digital Media. In International Conference on Social Robotics (ICSR) Metaphors for HRI Workshop Submissions, 2020.
+**Michael Suguitan**. Robots as Humanizing Post-Digital Media. In International Conference on Social Robotics (ICSR) Metaphors for HRI Workshop Submissions, 2020.
 
-Michael Suguitan and Guy Hoffman. A Portrait of the Robot as a Communicative Medium: Using the DIY Blossom Robot for Accessible Embodied Telepresence. In International Conference on Social Robotics (ICSR) Student Design Competition (Finalist), 2021.
+**Michael Suguitan** and Guy Hoffman. A Portrait of the Robot as a Communicative Medium: Using the DIY Blossom Robot for Accessible Embodied Telepresence. In International Conference on Social Robotics (ICSR) Student Design Competition (Finalist), 2021.
