@@ -6,24 +6,7 @@ redirect_from:
 - /
 ---
 
-<script type="text/javascript" src="/js/lightbox.js"></script>
-<link rel="stylesheet" href="/css/lightbox.css">
-<div width="70%">
-    <a data-lightbox="boku" href="/assets/img/boku.gif" width="50%">
-        <img src="/assets/img/boku.gif" width="50%">
-    </a>
-    <div style="text-align:center; font-weight:normal" href="/assets/main.css">
-        <span style="font-weight:bold">僕は僕だ (I am me)</span>
-        <span style="font-size:12px"><i>(Photoshop, OpenCV, MoviePy)</i></span>
-    </div>
-</div>
 
-<div style="text-align: right">
-    <i>本来は完璧なはずなのに、<br>
-    どこかが壊れているとか僕は面白いと思う。<br>
-    面白さってそう言う物だと思う。<br>
-    ー庵野秀明</i>
-</div>
 
 I [make](/eng),
 [photograph](/image),
