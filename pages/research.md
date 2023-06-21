@@ -22,9 +22,14 @@ My CV is available [here](/assets/pdf/cv.pdf).
 
 [**Michael Suguitan** and Guy Hoffman. What Is It Like to Be a Bot? Variable Perspective Embodied Telepresence for Crowdsourcing Robot Movements. In Personal and Ubiquitous Computing, 2022.](/assets/pdf/ubicomp22-tele.pdf)
 
+![Face-to-movement translation network](/assets/img/thri23_network.png)
+*Face-to-gesture translation neural network.*
+
 **Michael Suguitan**, Nick DePalma, Jessica Hodgins, and Guy Hoffman. Face2Gesture: Translating Facial Expressions Into Robot Movements Through Shared Latent Space Neural Networks. ACM Transactions on Human-Robot Interaction (THRI) Special Issue on AI (in revision), 2023.
 
 ## Conference Papers
+![Movement affective modification neural network.](/assets/img/hri20_network.png)
+*Movement modification neural network, mapped to the affective valence-arousal circumplex model of emotions.*
 
 [**Michael Suguitan**, Randy Gomez, and Guy Hoffman. MoveAE: Modifying Affective Robot Movements Using Classifying Variational Autoencoders. In ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2020.](/assets/pdf/hri20-moveae.pdf)
 
@@ -34,8 +39,12 @@ My CV is available [here](/assets/pdf/cv.pdf).
 
 ## Extended Abstracts​​​​​​​
 
+![Human-robot movement translation network.](/assets/img/hri19_network.png)
+*Human-to-robot movement translation CycleGAN network.*
+
 [**Michael Suguitan**, Mason Bretan, and Guy Hoffman. Affective Robot Movement Generation Using CycleGANs. In ACM/IEEE International Conference on Human-Robot Interaction (HRI) Late Breaking Reports (Third Place Prize), 2019.](/assets/pdf/hri19-cyclegans.pdf)
 
+![Telepresence setup for Blossom](/assets/img/chi21_setup.png)
 [**Michael Suguitan** and Guy Hoffman. You Are (Not) The Robot: Variable Perspective Motion Control of a Social Telepresence Robot. In ACM Conference on Human Factors in Computing Systems (CHI) Extended Abstracts, 2021.](/assets/pdf/chi21-tele.pdf)
 
 ## Miscellaneous

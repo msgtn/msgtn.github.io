@@ -8,7 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'About',              url: 'about'}
-- {name: 'Works',      url: 'eng'}
+- {name: 'Works',      url: 'works'}
 - {name: 'Research',        url: 'research'}
 - {name: 'Image',      url: 'image'}
 - {name: 'Music', url: 'music'}

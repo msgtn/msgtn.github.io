@@ -11,7 +11,7 @@ redirect_from:
 ![Asheville, 2022](/assets/img/19_ash.jpg)
 *Asheville, 2022 (photo credit [Sean Lee](https://www.instagram.com/34.seanlee/))*
 
-I [make](/eng),
+I [make](/works),
 [photograph](/image),
 and [musick](/music).
 
