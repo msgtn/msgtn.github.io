@@ -45,6 +45,8 @@ My CV is available [here](/assets/pdf/cv.pdf).
 [**Michael Suguitan**, Mason Bretan, and Guy Hoffman. Affective Robot Movement Generation Using CycleGANs. In ACM/IEEE International Conference on Human-Robot Interaction (HRI) Late Breaking Reports (Third Place Prize), 2019.](/assets/pdf/hri19-cyclegans.pdf)
 
 ![Telepresence setup for Blossom](/assets/img/chi21_setup.png)
+*Evaluation setup for telepresence study.*
+
 [**Michael Suguitan** and Guy Hoffman. You Are (Not) The Robot: Variable Perspective Motion Control of a Social Telepresence Robot. In ACM Conference on Human Factors in Computing Systems (CHI) Extended Abstracts, 2021.](/assets/pdf/chi21-tele.pdf)
 
 ## Miscellaneous
