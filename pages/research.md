@@ -13,6 +13,8 @@ I am a [PhD graduate from Cornell University](https://www.linkedin.com/in/msugui
 [Blossom was designed as a critique](https://spectrum.ieee.org/blossom-a-creative-handmade-approach-to-social-robotics-from-cornell-and-google#toggle-gdpr) of [stereotypical mass-manufactured white-and-black LED-illuminated commercial robots](https://www.google.com/search?q=robot&hl=en&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjMpp3j_Or-AhVZFlkFHRK7AF0Q0pQJegQIAxAC).
 I - and the many students and collaborators whom I had the pleasure of working with - developed Blossom as a [robot construction kit](https://github.com/hrc2/blossom-public), [AI research platform](https://www.youtube.com/watch?v=mP8qEnDWCH0), and [telepresence device](https://www.youtube.com/watch?v=5M7a0qXfySc); [my presentation at the RoboPhilosophy conference sums up the Blossom project](https://www.youtube.com/watch?v=si2D6TpGEFE&feature=youtu.be), which is continued by other researchers.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/si2D6TpGEFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 My papers are available here and on my [Google Scholar](https://scholar.google.com/citations?user=LzEyxcsAAAAJ).
 My CV is available [here](/assets/pdf/cv.pdf).
 
