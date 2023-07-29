@@ -16,7 +16,11 @@ I - and the many students and collaborators whom I had the pleasure of working w
 <iframe width="560" height="315" src="https://www.youtube.com/embed/si2D6TpGEFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 My papers are available here and on my [Google Scholar](https://scholar.google.com/citations?user=LzEyxcsAAAAJ).
-My CV is available [here](/assets/pdf/cv.pdf).
+My CV is available [here](/assets/pdf/msuguitan_cv.pdf).
+
+## Thesis
+
+[**Michael Suguitan**. At Least, Be Human: Humanizing the Robot as a Medium for Communication. PhD Thesis.](/assets/pdf/thesis.pdf)
 
 ## Journal Papers
 
