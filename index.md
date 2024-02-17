@@ -1,6 +1,6 @@
 ---
 layout: home
-# title: "psychomugs github io"
+# title: "msgtn github io"
 # permalink: /about
 redirect_to: /about
 ---
