@@ -1,5 +1,7 @@
 .site-header {
   min-height: 56px;
+  max-height: 56px;
+  // max-width: 100vw;
   width: $container-width;
   position: fixed;
   background-color: $body-background-color;
@@ -9,9 +11,13 @@
   font-family: $header-font-family;
 }
 @media (max-width: $container-width) {
+// @media (max-width: 100vw) {
   .site-header {
-    min-height: 56px;
+    // min-height: 56px;
+    // height: 56px;
+    max-height: 56px;
     width: 95vw;
+    // width: 50vw;
     position: fixed;
     background-color: $body-background-color;
     color: $body-font-color;
@@ -29,6 +35,9 @@
   font-size: 40px;
   font-weight: 400;
   line-height: 56px;
+  max-height: 56px;
+  max-width: 50vw;
+  height: 56px;
   margin-bottom: 0;
   margin-top: 0;
   padding-left: 10px;
@@ -39,6 +48,7 @@
   transform: scale(0.5,1);
   // flex-basis: 0%;
   transform-origin:left;
+  white-space: nowrap;
   
 }
 // .site-title h3 {
@@ -50,6 +60,8 @@
   background-color: $body-background-color;
   color: $body-font-color;
   align-items: right;
+  transform: scale(0.9,1);
+  text-transform: uppercase;
 
 }
 .menu-link {
@@ -58,6 +70,12 @@
 
   background-color: $body-background-color;
   color: $body-font-color;
+  // font-family: 'Helvetica';
+  font-family: 'Helvetica';
+  font-weight: bolder;
+  transform: scale(0.8,1);
+  text-transform: uppercase;
+  
 }
 
 /*
@@ -65,6 +83,8 @@
 */
 
 @media (min-width: $container-width) {
+  // @media (width: 10vw) {
+// @media {
   .dropbtn {
     display: none;
   }
@@ -77,12 +97,13 @@
     display: none;
   }
   .site-title {
-    padding-right: 0.25rem;
+    // padding-right: 0.25rem;
+    max-height: 56px;
   }
   .dropbtn {
     // background-color: white;
-  background-color: $body-background-color;
-  color: $body-font-color;
+    background-color: $body-background-color;
+    color: $body-font-color;
     // color: black;
     padding: 16px;
     margin-top: 4px;
@@ -91,6 +112,7 @@
     cursor: pointer;
     // position: absolute;
     align-items: right;
+    // position: relative;
     // float: right;
 
   }
@@ -123,14 +145,14 @@
     display: block;
     text-align: right;
   }
-  .dropdown-content a:hover {
-    background-color: #ffffff11;
-  }
+  // .dropdown-content a:hover {
+  //   background-color: #ffffff11;
+  // }
   .dropdown:hover .dropdown-content {
     display: block;
   }
-  .dropdown:hover .dropbtn {
-    background-color: #ffffff11;
-    // background-color: rgb(155,0,0);
-  }
+  // .dropdown:hover .dropbtn {
+  //   background-color: #ffffff11;
+  //   // background-color: rgb(155,0,0);
+  // }
 }

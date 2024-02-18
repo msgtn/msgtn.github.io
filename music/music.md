@@ -6,9 +6,13 @@ permalink: /music
 ---
 
 ## 身代わりの侵入 / Love Theme from The End of Evangelion
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OlFykvh8WfE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="video-wrapper">
+<iframe width="100%" padding-bottom="56.25%" src="https://www.youtube.com/embed/OlFykvh8WfE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## La La Land Medley
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GQsCS9cZW2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="video-wrapper">
+<iframe width="100%" padding-bottom="56.25%" src="https://www.youtube.com/embed/GQsCS9cZW2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-<a href="/music/september">do you remember?</a>
+<a href="/music/september" style="color: rgb(30,30,30)">do you remember?</a>
