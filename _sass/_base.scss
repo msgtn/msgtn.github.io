@@ -19,16 +19,22 @@ dl, dd, ol, ul, figure {
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
-  line-height: 1.25;
+  // line-height: 1.25;
   text-rendering: optimizeLegibility;
+  font-family: 'Times New Roman';
+  text-transform: uppercase;
+  transform: scale(0.6, 1);
+  transform-origin: 0%;
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 4rem;
 }
 h2 {
-  margin-top: 1rem;
-  font-size: 1.5rem;
+  margin-top: 0rem;
+  font-size: 2rem;
+  font-family:'Helvetica'
+  // color: rgb(100,100,100);
 }
 h3 {
   margin-top: 1.5rem;
@@ -40,7 +46,7 @@ h4, h5, h6 {
 }
 
 /* Body */
-body,h1,h2,h3,h4,h5,h6,footer,site-header {
+body,footer,site-header {
   font-family: $base-font-family;
   background-color: $body-background-color;
   color: $body-font-color;
@@ -58,9 +64,9 @@ p {
   margin-bottom: 1em;
   margin-left: 0;
   margin-right: 0;
-  line-height: 1.65;
+  line-height: 1.875rem;
   font-family: $body-font-family;
-  font-size: 20px;
+  font-size: 1.25rem;
 }
 
 /* Lists */
