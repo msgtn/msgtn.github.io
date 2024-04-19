@@ -1,17 +1,20 @@
 #%%
 links = '''
 
-assets/photos/grad/DSCF6622.jpg
+assets/photos/film/DSCF0820-2.jpg
 
-assets/photos/grad/FXP23897.jpg
+assets/photos/film/DSCF1540-2.jpg
 
-assets/photos/grad/FXT24422-2.jpg
+assets/photos/film/DSCF1684-2.jpg
 
-assets/photos/grad/FXT27030.jpg
+assets/photos/film/DSCF0807.jpg
 
-assets/photos/grad/FXT27802.jpg
+assets/photos/film/FXT28811.jpg
 
-assets/photos/grad/FXP20023.jpg
+assets/photos/film/DSCF1823-2.jpg
+
+assets/photos/film/DSCF1654-2.jpg
+
 '''
 
 tag = ''
@@ -27,4 +30,6 @@ for link in links.split():
     ''')
 # %%
 print(tag)
+with open('.scratch.txt','w') as _file:
+    _file.write(tag)
 # %%
