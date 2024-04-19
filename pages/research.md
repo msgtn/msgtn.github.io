@@ -1,17 +1,18 @@
 ---
-layout: page
+layout: post
 title: RESEARCH
 category: research
 permalink: /research
+date: 2022-05-29
 ---
-<a data-lightbox="blossom" href="/assets/img/blossom.jpeg" width="95%">
-    <img src="/assets/img/blossom.jpeg" width="95%">
+<a data-lightbox="blossom" href="/assets/img/blossom.jpeg" width="100%">
+    <img src="/assets/img/blossom.jpeg" width="100%">
 </a>
     
 
 I am a [PhD graduate from Cornell University](https://www.linkedin.com/in/msuguitan/), where I developed Blossom, an [open-source social robot platform](https://github.com/hrc2/blossom-public).
 [Blossom was designed as a critique](https://spectrum.ieee.org/blossom-a-creative-handmade-approach-to-social-robotics-from-cornell-and-google#toggle-gdpr) of [stereotypical mass-manufactured white-and-black LED-illuminated commercial robots](https://www.google.com/search?q=robot&hl=en&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjMpp3j_Or-AhVZFlkFHRK7AF0Q0pQJegQIAxAC).
-I — and the many students and collaborators whom I had the pleasure of working with — developed Blossom as a [robot construction kit](https://github.com/hrc2/blossom-public), [AI research platform](https://www.youtube.com/watch?v=mP8qEnDWCH0), and [telepresence device](https://www.youtube.com/watch?v=5M7a0qXfySc); [my presentation at the RoboPhilosophy conference sums up the Blossom project](https://www.youtube.com/watch?v=si2D6TpGEFE&feature=youtu.be), which is continued by other researchers.
+I — and the many students and collaborators whom I had the pleasure of working with — developed Blossom as a [robot construction kit](https://github.com/hrc2/blossom-public), [AI research platform](https://www.youtube.com/watch?v=mP8qEnDWCH0), and [telepresence device](https://www.youtube.com/watch?v=5M7a0qXfySc). [My presentation at the RoboPhilosophy conference sums up the Blossom project](https://www.youtube.com/watch?v=si2D6TpGEFE&feature=youtu.be), which is [continued](https://magazine.viterbi.usc.edu/fall-2023/whats-next/small-ally-big-impact/) by [other](https://ojs.aaai.org/index.php/AAAI/article/view/30359) [researchers](https://arxiv.org/abs/2402.17937).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/si2D6TpGEFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

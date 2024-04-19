@@ -5,10 +5,11 @@
   width: $container-width;
   position: fixed;
   background-color: $body-background-color;
-  color: $body-font-color;
+  // color: $body-font-color;
   // box-shadow: 0 5px 6px -6px #bbb;
   z-index: 100;
   font-family: $header-font-family;
+  color: $header-font-color;
 }
 @media (max-width: $container-width) {
 // @media (max-width: 100vw) {

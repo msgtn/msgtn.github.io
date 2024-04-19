@@ -3,6 +3,7 @@ layout: post
 title: "Hindsight"
 author: "Michael Suguitan"
 categories: text
+image: hindsight.jpg
 ---
 
 *Life can only be understood backwards; but it must be lived forwards.*
