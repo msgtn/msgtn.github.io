@@ -10,9 +10,11 @@ permalink: /music
 <iframe width="100%" padding-bottom="56.25%" src="https://www.youtube.com/embed/OlFykvh8WfE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+<br>
+
 ## La La Land Medley
 <div class="video-wrapper">
 <iframe width="100%" padding-bottom="56.25%" src="https://www.youtube.com/embed/GQsCS9cZW2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-<a href="/music/september" style="color: rgb(30,30,30)">do you remember?</a>
+<a href="/music/september" style="color: #333">do you remember?</a>

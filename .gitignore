@@ -6,3 +6,4 @@ vendor
 *.gif
 !assets/img/boku_small.gif
 _drafts
+*.DS_Store
