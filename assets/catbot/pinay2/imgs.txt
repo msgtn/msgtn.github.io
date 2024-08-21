@@ -1,0 +1,4 @@
+    - image: assets/catbot/pinay2/mjps001_image_77.jpg
+    - image: assets/catbot/pinay2/mjps002_image_64.jpg
+    - image: assets/catbot/pinay2/mjps003_image_150.jpg
+    - image: assets/catbot/pinay2/mjps004_image_133.jpg

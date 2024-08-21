@@ -1,0 +1,4 @@
+    - image: assets/catbot/mangy/mjps005_image_146.jpg
+    - image: assets/catbot/mangy/mjps021_image_132.jpg
+    - image: assets/catbot/mangy/mjps031_image_121.jpg
+    - image: assets/catbot/mangy/mjps078_image_286.jpg

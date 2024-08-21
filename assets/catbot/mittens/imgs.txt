@@ -1,0 +1,4 @@
+    - image: assets/catbot/mittens/mjps006_image_144.jpg
+    - image: assets/catbot/mittens/mjps013_image_22.jpg
+    - image: assets/catbot/mittens/mjps022_image_49.jpg
+    - image: assets/catbot/mittens/mjps028_image_283.jpg

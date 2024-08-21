@@ -1,0 +1,18 @@
+import os, glob, sys
+
+def main():
+    img_dir = sys.argv[1]
+    imgs = sorted(glob.glob(f"{img_dir}/*.jpg"))
+    img_str = ""
+    for img in imgs:
+        rel_path = img.split(os.sep)
+        # breakpoint()
+        rel_path = os.path.join(*rel_path[rel_path.index('assets'):])
+        img_str += f"    - image: {rel_path}"
+        img_str += "\n"
+    with open(os.path.join(os.path.dirname(imgs[0]), "imgs.txt"), 'w') as _file:
+        _file.write(img_str)
+    print(img_str)
+
+if __name__=="__main__":
+    main()

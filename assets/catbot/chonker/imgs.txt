@@ -1,0 +1,4 @@
+    - image: assets/catbot/chonker/mjps002_image_139.jpg
+    - image: assets/catbot/chonker/mjps003_image_166.jpg
+    - image: assets/catbot/chonker/mjps007_image_148.jpg
+    - image: assets/catbot/chonker/mjps009_image_39.jpg
