@@ -7,10 +7,10 @@ tags: image
 image: ../../assets/photos/241103_nyc-marathon/mjps_001_picam_241103_151801.jpg
 ---
 
-These are photos of the 2024 NYC Marathon, taken on the [MPi](/mpi/2023-04-20-mpi).
+These are photos of the 2024 NYC Marathon, taken on the [MPi](/mpi).
 I ran the marathon in 2019 and it was the most painful experience of my life, until I dislocated my elbow at the LES skatepark.
-I kept up with the three-hour pace group until after the Queensboro Bridge, coming up on mile 17, when my left calf cramped and I had to hobble for the remaining 9 miles.
-In hindsight, I think the cramps came from:
+I kept up with the three-hour pace group until after the Queensboro Bridge, coming up on mile 17, when my left calf cramped and I had to hobble for the remaining 9 miles to finish in [3:28:04](https://results.nyrr.org/event/M2019/finishers#search=Michael%2520Suguitan&page=1).
+In hindsight, I attribute the cramps to:
 - 1) doing long training runs on a gravel trail instead of pavement,
 - 2) a shortened training period due to having just moved back from interning in Japan, and
 - 3) a weaker left calf from regular-stance skating and popping more frequently from the right leg.
