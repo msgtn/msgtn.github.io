@@ -37,6 +37,29 @@ assets/photos/241103_nyc-marathon/mjps_008_picam_241103_181358.jpg
 
 '''
 
+links = '''
+assets/photos/241031_halloween/mjps_001_picam_52.jpg
+
+assets/photos/241031_halloween/mjps_002_picam_170.jpg
+
+assets/photos/241031_halloween/mjps_003_picam_178.jpg
+
+assets/photos/241031_halloween/mjps_004_picam_201.jpg
+
+assets/photos/241031_halloween/mjps_005_picam_202.jpg
+
+assets/photos/241031_halloween/mjps_006_picam_226.jpg
+
+assets/photos/241031_halloween/mjps_007_picam_232.jpg
+
+assets/photos/241031_halloween/mjps_008_picam_254.jpg
+
+assets/photos/241031_halloween/mjps_009_picam_262.jpg
+
+assets/photos/241031_halloween/mjps_010_picam_265.jpg
+
+'''
+
 tag = ''
 for link in links.split():
     # print(link)
