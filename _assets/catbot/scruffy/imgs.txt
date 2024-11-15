@@ -1,0 +1,4 @@
+    - image: assets/catbot/scruffy/mjps002_image_91.jpg
+    - image: assets/catbot/scruffy/mjps003_image_43.jpg
+    - image: assets/catbot/scruffy/mjps006_image_184.jpg
+    - image: assets/catbot/scruffy/mjps027_image_109.jpg

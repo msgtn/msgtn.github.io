@@ -1,0 +1,4 @@
+    - image: assets/catbot/creamsicle/mjps001_image_24.jpg
+    - image: assets/catbot/creamsicle/mjps027_image_209.jpg
+    - image: assets/catbot/creamsicle/mjps046_image_346.jpg
+    - image: assets/catbot/creamsicle/mjps048_image_253.jpg

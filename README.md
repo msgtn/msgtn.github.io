@@ -18,6 +18,9 @@ bundle exec jekyll serve
 ```
 Browse to http://localhost:4000
 
+# Styling
+Edit things in `msgtn.github.io/_sass/`
+
 <!-- # Scratch
 I would like to structure this site in a way that resembles a room.
 Inspired by mind palaces and anti-dualism, I believe that a mentally logical structure would also be physically logical.

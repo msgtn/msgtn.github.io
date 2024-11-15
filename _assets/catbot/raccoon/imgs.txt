@@ -1,0 +1,2 @@
+    - image: assets/catbot/raccoon/raccoon0.jpg
+    - image: assets/catbot/raccoon/raccoon1.jpg
