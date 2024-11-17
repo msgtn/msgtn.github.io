@@ -17,42 +17,27 @@ In hindsight, I attribute the cramps to:
 
 This was my first year as a spectator and it was really inspiring to watch, so much so that I'm considering going back to a more intentional running practice.
 
-<a data-lightbox="img" href="assets/photos/241103_nyc-marathon/mjps_001_picam_241103_151801.jpg" width="95%">
-    <img src="assets/photos/241103_nyc-marathon/mjps_001_picam_241103_151801.jpg" width="95%">
-</a>
+[![](assets/photos/241103_nyc-marathon/mjps_001_picam_241103_151801.jpg)](assets/photos/241103_nyc-marathon/mjps_001_picam_241103_151801.jpg)
 
 
-<a data-lightbox="img" href="assets/photos/241103_nyc-marathon/mjps_002_picam_241103_150541.jpg" width="95%">
-    <img src="assets/photos/241103_nyc-marathon/mjps_002_picam_241103_150541.jpg" width="95%">
-</a>
+[![](assets/photos/241103_nyc-marathon/mjps_002_picam_241103_150541.jpg)](assets/photos/241103_nyc-marathon/mjps_002_picam_241103_150541.jpg)
 
 
-<a data-lightbox="img" href="assets/photos/241103_nyc-marathon/mjps_003_picam_241103_173649.jpg" width="95%">
-    <img src="assets/photos/241103_nyc-marathon/mjps_003_picam_241103_173649.jpg" width="95%">
-</a>
+
+[![](assets/photos/241103_nyc-marathon/mjps_003_picam_241103_173649.jpg)](assets/photos/241103_nyc-marathon/mjps_003_picam_241103_173649.jpg)
 
 
-<a data-lightbox="img" href="assets/photos/241103_nyc-marathon/mjps_004_picam_241103_153452.jpg" width="95%">
-    <img src="assets/photos/241103_nyc-marathon/mjps_004_picam_241103_153452.jpg" width="95%">
-</a>
+[![](assets/photos/241103_nyc-marathon/mjps_004_picam_241103_153452.jpg)](assets/photos/241103_nyc-marathon/mjps_004_picam_241103_153452.jpg)
 
 
-<a data-lightbox="img" href="assets/photos/241103_nyc-marathon/mjps_005_picam_241103_171946.jpg" width="95%">
-    <img src="assets/photos/241103_nyc-marathon/mjps_005_picam_241103_171946.jpg" width="95%">
-</a>
+[![](assets/photos/241103_nyc-marathon/mjps_005_picam_241103_171946.jpg)](assets/photos/241103_nyc-marathon/mjps_005_picam_241103_171946.jpg)
 
 
-<a data-lightbox="img" href="assets/photos/241103_nyc-marathon/mjps_006_picam_241103_175206.jpg" width="95%">
-    <img src="assets/photos/241103_nyc-marathon/mjps_006_picam_241103_175206.jpg" width="95%">
-</a>
+[![](assets/photos/241103_nyc-marathon/mjps_006_picam_241103_175206.jpg)](assets/photos/241103_nyc-marathon/mjps_006_picam_241103_175206.jpg)
 
 
-<a data-lightbox="img" href="assets/photos/241103_nyc-marathon/mjps_007_picam_241103_180633.jpg" width="95%">
-    <img src="assets/photos/241103_nyc-marathon/mjps_007_picam_241103_180633.jpg" width="95%">
-</a>
+[![](assets/photos/241103_nyc-marathon/mjps_007_picam_241103_180633.jpg)](assets/photos/241103_nyc-marathon/mjps_007_picam_241103_180633.jpg)
 
 
-<a data-lightbox="img" href="assets/photos/241103_nyc-marathon/mjps_008_picam_241103_181358.jpg" width="95%">
-    <img src="assets/photos/241103_nyc-marathon/mjps_008_picam_241103_181358.jpg" width="95%">
-</a>
+[![](assets/photos/241103_nyc-marathon/mjps_008_picam_241103_181358.jpg)](assets/photos/241103_nyc-marathon/mjps_008_picam_241103_181358.jpg)
 
