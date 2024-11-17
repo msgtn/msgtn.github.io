@@ -22,7 +22,7 @@ I have also refined the telepresence interface and enabled conversational intera
 
 [![](assets/rebuild_of_blossom/9be519656e36154ee61971dee0d5826d.gif)](assets/rebuild_of_blossom/9be519656e36154ee61971dee0d5826d.gif) 
 
-###### The current version of Blossom, with a new chevron cover[^1] and accessories: glasses for seeing; hearing aid for listening; name tag for communicating. Stereographic GIF courtesy of [Cyril Engmann and his PIMSLO camera](https://nickengmann.com/).
+###### The current version of Blossom, with a new chevron cover[^1] and accessories: glasses for seeing; hearing aid for listening; name tag for communicating. Stereographic GIF courtesy of [Cyril and the PIMSLO camera](https://nickengmann.com/).
 
 [Blossom is an open-source robot platform for human-robot interaction (HRI) research](https://spectrum.ieee.org/blossom-a-creative-handmade-approach-to-social-robotics-from-cornell-and-google).
 [I developed Blossom during my PhD](https://www.youtube.com/watch?v=si2D6TpGEFE) and have continued working on "rebuilding" the entire platform.[^2]
