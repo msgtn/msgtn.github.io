@@ -20,6 +20,7 @@ This was my first year as a spectator and it was really inspiring to watch, so m
 <a data-lightbox="img" href="assets/photos/241103_nyc-marathon/mjps_001_picam_241103_151801.jpg" width="95%">
     <img src="assets/photos/241103_nyc-marathon/mjps_001_picam_241103_151801.jpg" width="95%">
 </a>
+[![](assets/photos/241103_nyc-marathon/mjps_001_picam_241103_151801.jpg)](assets/photos/241103_nyc-marathon/mjps_001_picam_241103_151801.jpg)
 
 
 <a data-lightbox="img" href="assets/photos/241103_nyc-marathon/mjps_002_picam_241103_150541.jpg" width="95%">

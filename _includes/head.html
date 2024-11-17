@@ -8,8 +8,8 @@
   </title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
-  <link rel="stylesheet" href="{{ site.github.url }}/assets/css/main.css">
-  <link rel="stylesheet" href="{{ site.github.url }}/assets/css/syntax.css">
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.github.url | replace: 'http://', '//' }}">
+  <link rel="stylesheet" href="{{ "/css/syntax.css" | prepend: site.github.url | replace: 'http://', '//' }}Z">
   <!-- Use Atom -->
   {% feed_meta %}
   <!-- RSS-v2.0tcol

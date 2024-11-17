@@ -5,8 +5,8 @@ author: "Michael Suguitan"
 creation date: 2024-11-10 18:56
 categories: works
 tags:
-  - daily_note_241110
   - blsm
+image: rebuild-of-blossom.jpg
 geometry: margin=4cm
 header-includes:
   - \usepackage{lineno}
@@ -14,28 +14,27 @@ header-includes:
   - \usepackage{xeCJK}
 font-size: 60px
 ---
-This post presents updates to [Blossom, the robot that I developed in grad school](https://michaelsuguitan.com/research).
 
-![](assets/rebuild_of_blossom/9be519656e36154ee61971dee0d5826d.gif) 
-###### The current version of Blossom, with a new chevron cover[^1] and accessories described below. Stereographic GIF courtesy of [Cyril Engmann and his PIMSLO camera](https://nickengmann.com/).
+This post presents updates to [Blossom, the robot that I developed in grad school](/research). 
+I have rebuilt the platform by redesigning the hardware and refactoring the software.
+I have also refined the telepresence interface and enabled conversational interaction with a language model.
+[The new repository is available on GitHub](https://github.com/msgtn/r0b0) and includes [documentation for construction](https://github.com/msgtn/r0b0/blob/main/docs/blsm.md).
+
+[![](assets/rebuild_of_blossom/9be519656e36154ee61971dee0d5826d.gif)](assets/rebuild_of_blossom/9be519656e36154ee61971dee0d5826d.gif) 
+
+###### The current version of Blossom, with a new chevron cover[^1] and accessories: glasses for seeing; hearing aid for listening; name tag for communicating. Stereographic GIF courtesy of [Cyril Engmann and his PIMSLO camera](https://nickengmann.com/).
 
 [Blossom is an open-source robot platform for human-robot interaction (HRI) research](https://spectrum.ieee.org/blossom-a-creative-handmade-approach-to-social-robotics-from-cornell-and-google).
 [I developed Blossom during my PhD](https://www.youtube.com/watch?v=si2D6TpGEFE) and have continued working on "rebuilding" the entire platform.[^2]
 I have redesigned the inner frame as a model kit, complete with [Gunpla](https://en.gundam.info/gunpla.html)-inspired runners and instructions.
 I have also refactored the codebase as [`r0b0`](https://github.com/msgtn/r0b0), a Python library for communicating between hardware peripherals and software applications.
 I presented Blossom at [Maker Faire Coney Island](https://coneyisland.makerfaire.com/) and developed new features for the exhibit.
-The [`r0b0` repository is available on GitHub](https://github.com/msgtn/r0b0) and includes [documentation for constructing the robot](https://github.com/msgtn/r0b0/blob/main/docs/blsm.md).
-
-
-
-
-
 
 
 ## Plastic love
 
 
-![](assets/rebuild_of_blossom/946d31411e050d712e64ae5a8d8336dc.jpg)
+[![](assets/rebuild_of_blossom/946d31411e050d712e64ae5a8d8336dc.jpg)](assets/rebuild_of_blossom/946d31411e050d712e64ae5a8d8336dc.jpg)
 
 ###### The redesigned inner frame and layout of parts. Some runners are repeated during construction: the completed model uses only one `A` and `D` runner, but two `B` and `C` runners, and three `E` and `F` runners.
 
@@ -46,7 +45,7 @@ I went in the opposite direction, instead further decomposing the design into sm
 The parts are still mostly flat — they can be either printed or laser cut from wood, though the tolerances would need adjusting  — and can be printed individually or in "runners" like actual injection-molded model kits.
 The redesign improves modularity for customizability (e.g. one could shorten the robot by just using less of the spine parts, or enlarge the base by lengthening just one part), requires less hardware (only needing the screws included with the motors), and includes [an instruction manual](https://github.com/msgtn/r0b0/blob/main/docs/assets/blsm/blsm.pdf) inspired by [Gunpla manuals](https://manual.bandai-hobby.net/).[^4]
 
-![](assets/rebuild_of_blossom/98a60f26c863b49ecfb06ced9cec5b6d.png)
+[![](assets/rebuild_of_blossom/98a60f26c863b49ecfb06ced9cec5b6d.png)](assets/rebuild_of_blossom/98a60f26c863b49ecfb06ced9cec5b6d.png)
 
 ###### The [instruction manual](https://github.com/msgtn/r0b0/blob/main/docs/assets/blsm/blsm.pdf) with 3D illustrations [instead of phone pictures](https://github.com/hrc2/blossom-public/wiki/2.-Assembly).
 
@@ -57,7 +56,7 @@ Less excitingly, the XL-330 nominally operates at 5V, easily tapped from any USB
 
 ## The medium is the message-oriented middleware
 
-![](assets/rebuild_of_blossom/887b1590bcb24d65dfcd8514127ab6f3.png)
+[![](assets/rebuild_of_blossom/887b1590bcb24d65dfcd8514127ab6f3.png)](assets/rebuild_of_blossom/887b1590bcb24d65dfcd8514127ab6f3.png)
 
 ###### Software diagram of `r0b0`, showing the network of "gadgets" and "cables" that translate messages between them.
 
@@ -70,15 +69,16 @@ The gadgets comprising Blossom include motors, serial devices, language models, 
 
 ## Old bot, new tricks
 
+[![](assets/rebuild_of_blossom/b3af04a12ec40bab5cadae4cc1af6dfe.jpg)](assets/rebuild_of_blossom/b3af04a12ec40bab5cadae4cc1af6dfe.jpg)
+
+###### The exhibition setup at Maker Faire.
+
 I took Blossom to [Maker Faire Coney Island](https://coneyisland.makerfaire.com/) — my first "Make" event.
 In preparation, I refined the existing interaction of the motion-based mobile interface and added long-planned language model capabilities.
 
-![](assets/rebuild_of_blossom/b3af04a12ec40bab5cadae4cc1af6dfe.jpg)
-
-###### The exhibition table setup at Maker Faire Coney Island.
 
 <div class="video-wrapper" height="1560px">
-<iframe  height="1560px" margin-top="1em" margin-bottom="1em" padding-top="1em" padding-bottom="1em" src="https://www.youtube.com/embed/6a4CkXx80Fw" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe  height="1560px" margin-top="1em" margin-bottom="1em" padding-top="1em" padding-bottom="1em" src="https://www.youtube.com/embed/cHR675FArZE" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ###### One of the interactions at Maker Faire: a girl dancing in front of Blossom while another attendee controls the robot.
@@ -96,7 +96,7 @@ In place of the shutter button is a record button for recording a movement for l
 The upper toolbar is primarily for playback of recorded movements: a user selects a movement to play or stop, with an optional toggle for looping.
 The upper toolbar also has a messaging button for communicating with the language model (described later).
 
-![](assets/rebuild_of_blossom/8524073cf0c6cd35823257514245af56.jpg)
+[![](assets/rebuild_of_blossom/8524073cf0c6cd35823257514245af56.jpg)](assets/rebuild_of_blossom/8524073cf0c6cd35823257514245af56.jpg)
 
 ###### The motion-based mobile interface inspired by mobile camera interfaces. The interface maps the orientation of the phone to the pose of the robot's head and broadcasts a video feed from the robot's camera. The bottom toolbar includes controls for the robot. The top toolbar includes controls for playback and texting a message to the robot's language model.
 
@@ -105,7 +105,7 @@ I drew inspiration from [Williams' "All Robots are Disabled"](https://ebooks.ios
 The "lore" is that Blossoms, as a species, have poor eyesight and thus need glasses to see, just as humans would.[^9]
 
 
-![](assets/rebuild_of_blossom/99de4f1c449be261769912646b407a5e.jpg)
+[![](assets/rebuild_of_blossom/99de4f1c449be261769912646b407a5e.jpg)](assets/rebuild_of_blossom/99de4f1c449be261769912646b407a5e.jpg)
 
 ###### A closeup of the robot's new accessories, including the camera-enabled glasses, ear-mounted hearing aid, and capacitive nose "boop" sensor. On touching the nose to initiate a prompt to the language model, the red LED in the glasses lights up and Blossom turns its ear toward the user.
 
@@ -135,18 +135,17 @@ This feature did not get much use at Maker Faire due to the loud open-air enviro
 <iframe  height="1560px" src="https://www.youtube.com/embed/zg92H5iviP0" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-###### A demonstration of the name tag printing the language model's response.
+###### A demonstration of the language model feature. Blossom responds in garbled "animalese" as the name tag prints the text.
 
 
 ## Once and future work
 
-![](assets/rebuild_of_blossom/8b98df7e3b9c05ac89e4fac4a53221d2.png)
+[![](assets/rebuild_of_blossom/8b98df7e3b9c05ac89e4fac4a53221d2.png)](assets/rebuild_of_blossom/8b98df7e3b9c05ac89e4fac4a53221d2.png)
 
-###### Scenes of interactions at Maker Faire. In the last frame, an attendee showed Blossom its own video feed, creating an infinite tunnel effect.
+###### Scenes of interactions at Maker Faire. In the last frame, an attendee shows Blossom its own video feed, creating an infinite tunnel effect.
 
-Maker Faire was a great time and reminded me of some of the highlights of grad school: seeing responses to the robot, especially from kids and other makers.
+Maker Faire was a great time and reminded me of some of the highlights of grad school: the responses to the robot, especially from kids and other makers; the [slow realization](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN292cWRubnNqNmJsaXZnOWo4bjNnb2pnbmJxbDFtN3FpMTB6NzA4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGck52i1pdzp4RKU/200w.webp) of how the system works; surmounting myriad technical issues to reach a stable demo.
 Most attendees were interested in the motion control, though a few held short conversations with the language model.
-Compared to early demos, where things would break or overheat or otherwise just not work, the platform is much more stable.
 It was inspiring to be around others who make not out of obligation, but because they choose to and express themselves through their work.
 Blossom was also voted Best in Show, thanks to the attendees who enjoyed the interaction.
 Next goals include:
@@ -156,7 +155,9 @@ Next goals include:
 
 Blossom's [`r0b0` repository is available on GitHub](https://github.com/msgtn/r0b0) and includes [documentation for its construction](https://github.com/msgtn/r0b0/blob/main/docs/blsm.md).
 
-![](assets/rebuild_of_blossom/32887cedf78619580255bdf759797931.jpg)
+[![](assets/rebuild_of_blossom/32887cedf78619580255bdf759797931.jpg)](assets/rebuild_of_blossom/32887cedf78619580255bdf759797931.jpg)
+
+<br>
 
 [^1]: The first that I have actually crocheted myself.
 [^2]: I think we all have an affinity with our projects, let alone when it's a creature with a face and a name to whom you owe many opportunities. And I had many ideas I wanted to implement but couldn't for being too orthogonal to research, i.e. [not immediately publishable](https://www.youtube.com/live/DJFKl_5JTnA?feature=shared&t=863).
@@ -168,5 +169,5 @@ Blossom's [`r0b0` repository is available on GitHub](https://github.com/msgtn/r0
 [^8]: Which I started at the end of 2019, just in time to be of relevance.
 [^9]: As a former owner of several hamsters, the rodents that Blossom resembles have poor eyesight anyways.
 [^10]: ["Evaluating and Personalizing User-Perceived Quality of Text-to-Speech Voices for Delivering Mindfulness Meditation with Different Physical Embodiments"](https://dl.acm.org/doi/abs/10.1145/3568162.3576987), Section 5.2: "We found that the feminine [text-to-speech (TTS)] voice had a significantly lower rating in the socially assistive robot condition than in the No Agent and conversational agent conditions. This is somewhat surprising, because we expected the computer-synthesized TTS voice to align better with the robot’s physical embodiment than the other voice options... This suggests that the alignment between the robot embodiment and voice may help to remind and amplify the user’s dislike of the artificial sound of a TTS voice."
-[^11]: I had planned to use a larger display and mimic an Etch-A-Sketch with motors to fake the already-fake letter-by-letter output of the language model. [Still considering this.](https://github.com/benb116/Etch)
+[^11]: I planned to use a larger display and mimic an Etch-A-Sketch with motors to fake the already-fake letter-by-letter output of the language model. [Still considering this.](https://github.com/benb116/Etch)
 [^12]: [Not mine.](https://archive.org/details/20191104guyhoffmantransiencereplicationandtheparadoxofsocialroboticscomplete)
