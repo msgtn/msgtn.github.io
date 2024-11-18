@@ -86,7 +86,7 @@ In preparation, I refined the existing interaction of the motion-based mobile in
 ## Get in the robot
 
 The main control method for the robot, at least in my versions, is a motion-based interface on a mobile device to control the robot's head.
-For the [telepresence applications I researched](https://michaelsuguitan.com/assets/pdf/ubicomp22-tele.pdf),[^8] I enabled motion control using [`DeviceOrientation` events](https://developer.mozilla.org/en-US/docs/Web/API/Window/deviceorientation_event) and added a remote video feed from a camera in the robot's head using [WebRTC](https://webrtc.org/).
+For the [telepresence applications I researched](https://msgtn.xyz/assets/pdf/ubicomp22-tele.pdf),[^8] I enabled motion control using [`DeviceOrientation` events](https://developer.mozilla.org/en-US/docs/Web/API/Window/deviceorientation_event) and added a remote video feed from a camera in the robot's head using [WebRTC](https://webrtc.org/).
 Users control the robot remotely through a mobile web page — no downloads required — that maps the orientation of the phone to the pose of the robot's head and displays the video feed from the robot's camera.
 The implementation was sufficient for guided user evaluations but had many flaws: the mobile interface was messy and uninspired, and I haphazardly clipped the unwieldy camera to the ear in the absence of a proper mount.
 
@@ -150,7 +150,7 @@ It was inspiring to be around others who make not out of obligation, but because
 Blossom was also voted Best in Show, thanks to the attendees who enjoyed the interaction.
 Next goals include:
 - Set up the robot as a persistent telepresence device, one that friends or relatives can call into like a landline telephone.
-- Explore language models for designing a character, with persistent memory and affective modulation. [Representation engineering with control vectors to modulate outputs](https://vgel.me/posts/representation-engineering/) looks like an interesting approach, and is [something I researched with autoencoders in prior work](https://michaelsuguitan.com/assets/pdf/hri20-moveae.pdf).
+- Explore language models for designing a character, with persistent memory and affective modulation. [Representation engineering with control vectors to modulate outputs](https://vgel.me/posts/representation-engineering/) looks like an interesting approach, and is [something I researched with autoencoders in prior work](https://msgtn.xyz/assets/pdf/hri20-moveae.pdf).
 - Continue refining: the cables to all the peripherals are unwieldy; the expensive single-purpose U2D2 Dynamixel controller can be replaced by the cheap multi-use Pico and a [Dynamixel MicroPython library](https://github.com/msgtn/dynamixel_micropython); the codebase, as always, can be tidied up.
 
 Blossom's [`r0b0` repository is available on GitHub](https://github.com/msgtn/r0b0) and includes [documentation for its construction](https://github.com/msgtn/r0b0/blob/main/docs/blsm.md).
@@ -163,7 +163,7 @@ Blossom's [`r0b0` repository is available on GitHub](https://github.com/msgtn/r0
 [^2]: I think we all have an affinity with our projects, let alone when it's a creature with a face and a name to whom you owe many opportunities. And I had many ideas I wanted to implement but couldn't for being too orthogonal to research, i.e. [not immediately publishable](https://www.youtube.com/live/DJFKl_5JTnA?feature=shared&t=863).
 [^3]: The prior version was designed from laser cut wood for two reasons. First and practically, for quick iteration as laser cutting is much faster than 3D printing. Second and philosophically, as a "statement"[^12] about designing a "transient" robot from materials that will age in contrast to the plastic and metal typically used for machines. But laser cutting and wood are much less accessible than 3D printers that are only getting better and cheaper, which opposed the project's theme of accessibility.
 [^4]: Thanks to [Sean](https://www.instagram.com/34.seanlee/) for finding the exact fonts used in the [Real Grade Wing Gundam](https://www.gundamkitscollection.com/2020/11/rg-1144-wing-gundam-announced.html) instruction manual that served as a reference.
-[^5]: [and do](https://michaelsuguitan.com/mpi)
+[^5]: [and do](https://msgtn.xyz/mpi)
 [^6]: In writing this, I kept accidentally typing ["medium" in place of "message."](https://web.mit.edu/allanmc/www/mcluhan.mediummessage.pdf)
 [^7]: I was dabbling with hardware synthesizers at the time I decided to refactor the codebase. I wanted to emulate the interconnectivity of instruments united by the standards of MIDI and even the simple 3.5mm audio jack.
 [^8]: Which I started at the end of 2019, just in time to be of relevance.
