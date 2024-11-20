@@ -16,19 +16,17 @@ font-size: 60px
 ---
 
 This post presents updates to [Blossom, the robot that I developed in grad school](/research). 
-I have rebuilt the platform by redesigning the hardware and refactoring the software.
-I have also refined the telepresence interface and enabled conversational interaction with a language model.
-[The new repository is available on GitHub](https://github.com/msgtn/r0b0) and includes [documentation for construction](https://github.com/msgtn/r0b0/blob/main/docs/blsm.md).
 
 [![](assets/rebuild_of_blossom/9be519656e36154ee61971dee0d5826d.gif)](assets/rebuild_of_blossom/9be519656e36154ee61971dee0d5826d.gif) 
 
 ###### The current version of Blossom, with a new chevron cover[^1] and accessories: glasses for seeing; hearing aid for listening; name tag for communicating. Stereographic GIF courtesy of [Cyril and the PIMSLO camera](https://nickengmann.com/).
 
-[Blossom is an open-source robot platform for human-robot interaction (HRI) research](https://spectrum.ieee.org/blossom-a-creative-handmade-approach-to-social-robotics-from-cornell-and-google).
-[I developed Blossom during my PhD](https://www.youtube.com/watch?v=si2D6TpGEFE) and have continued working on "rebuilding" the entire platform.[^2]
-I have redesigned the inner frame as a model kit, complete with [Gunpla](https://en.gundam.info/gunpla.html)-inspired runners and instructions.
-I have also refactored the codebase as [`r0b0`](https://github.com/msgtn/r0b0), a Python library for communicating between hardware peripherals and software applications.
-I presented Blossom at [Maker Faire Coney Island](https://coneyisland.makerfaire.com/) and developed new features for the exhibit.
+
+[Blossom is an open-source robot platform for human-robot interaction (HRI) research](https://spectrum.ieee.org/blossom-a-creative-handmade-approach-to-social-robotics-from-cornell-and-google) that [I developed during my PhD](https://www.youtube.com/watch?v=si2D6TpGEFE).
+I've used Blossom for research in [design](/assets/pdf/thri-blossom.pdf), [machine](/assets/pdf/hri20-moveae.pdf) [learning](/assets/pdf/thri-fg.pdf), and [telepresence](/assets/pdf/ubicomp22-tele.pdf); others have made [Blo](https://sites.uw.edu/emar/2018/04/08/teens-showcase-their-amazing-designs-at-the-social-robot-design-challenge-showcase/)[sso](https://github.com/interaction-lab/blossom-public)[ms](https://github.com/agmui/blossom-public) for their own research purposes.
+I have continued working on "rebuilding" the entire platform[^2]: I redesigned the inner frame as a model kit, complete with [Gunpla](https://en.gundam.info/gunpla.html)-inspired runners and instructions, and refactored the codebase as [`r0b0`](https://github.com/msgtn/r0b0), a Python library for communicating between hardware peripherals and software applications.
+In preparation to present Blossom at [Maker Faire Coney Island](https://coneyisland.makerfaire.com/), I refined the telepresence interface and enabled conversational interaction with a language model.
+[The new repository is available on GitHub](https://github.com/msgtn/r0b0) and includes [documentation for construction](https://github.com/msgtn/r0b0/blob/main/docs/blsm.md).
 
 
 ## Plastic love
