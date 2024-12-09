@@ -1,9 +1,12 @@
 ---
-layout: post
-title: RESEARCH
+id: research
+aliases: []
+tags: []
 category: research
+date: "2022-05-29"
+layout: post
 permalink: /research
-date: 2022-05-29
+title: RESEARCH
 ---
 <a data-lightbox="blossom" href="/assets/img/blsm-maker-faire.jpg" width="100%">
     <img src="/assets/img/blsm-maker-faire.jpg" width="100%">
@@ -12,7 +15,7 @@ date: 2022-05-29
     <img src="/assets/img/blsm-teaser.jpg" width="100%">
 </a>
    
-###### The Blossom robot in its current covered form (top) and its inner frame (bottom). The inner frame is constructed 
+###### The Blossom robot in its current covered form (top) and its inner frame (bottom). 
 
 I developed Blossom, an [open-source social robot platform](https://github.com/msgtn/r0b0/blob/main/docs/blsm.md), for my [PhD at Cornell](https://scholar.google.com/citations?user=LzEyxcsAAAAJ).
 [Blossom was designed as a critique](https://spectrum.ieee.org/blossom-a-creative-handmade-approach-to-social-robotics-from-cornell-and-google#toggle-gdpr) of [stereotypical mass-manufactured white-and-black LED-illuminated commercial robots](https://www.google.com/search?q=robot&hl=en&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjMpp3j_Or-AhVZFlkFHRK7AF0Q0pQJegQIAxAC).

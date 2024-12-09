@@ -6,3 +6,9 @@ vendor
 !assets/img/boku_small.gif
 _drafts
 *.DS_Store
+
+# vim
+*~
+*.swp
+*.swo
+
