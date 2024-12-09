@@ -14,6 +14,7 @@ plugins:
 - jekyll-seo-tag
 - jekyll-redirect-from
 
+show_drafts: true
 defaults:
   - scope:
       path: "assets/photos"
