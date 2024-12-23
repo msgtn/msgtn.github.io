@@ -8,7 +8,7 @@ dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
   // background-color: black;
-  color: $body-font-color,
+  color: $body-font-color;
 }
 
 /*
@@ -47,17 +47,18 @@ h2, h3, h4, h5 {
   // margin-top: 0rem;
   font-size: 2rem;
   font-family:'Helvetica';
-  padding-top: 0.5em;
-  padding-bottom: 0px;
-  margin-top: 10px;
-  margin-bottom: 0px;
+  margin-top: 1em;
+  margin-bottom: 1em;
   line-height:1.2em;
   z-index: -1;
   // color: rgb(100,100,100);
 }
 h3 {
+
   margin-top: 1.5rem;
   font-size: 1.5rem;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
   // font-size: 2rem;
 }
 h4, h5, h6 {
@@ -93,6 +94,7 @@ body img {
 p {
   display: block;
   margin-top: 1em;
+  padding-top: 1em;
   margin-bottom: 1em;
   margin-left: 0;
   margin-right: 0;
