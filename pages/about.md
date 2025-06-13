@@ -21,6 +21,7 @@ I am an engineer and researcher skilled in mechatronics design and prototyping, 
 I earned my [PhD from Cornell University](/research), where I developed Blossom, an [open-source social robot platform](https://github.com/msgtn/r0b0). 
 Prior to Cornell, I studied mechanical engineering and programming at [NC State](/asme), where I led [our robotics team](https://www.mae.ncsu.edu/2016/02/09/students-win-2015-asme-student-design-competition/) to [first place in an international competition](https://www.asme.org/topics-resources/society-news/asme-news/studentdesigned-rescue-robots-face-imece-2015).
 My [graduation caps](/gradcap) were [kinda](https://www.facebook.com/watch/?v=280843082514460) [known](https://www.reddit.com/r/gifs/comments/4gzqs6/a_robotic_automatic_wireless_selfturning/).
+I once [met the creator of *Gundam*.](/heroes)
 
 I am currently designing human-robot interactions and developing software at [Fauna Robotics](https://faunarobotics.com/).
 My past work experiences include R&D for electromagnetic actuators at [NASA MSFC](https://www.nasa.gov/centers/marshall/home/index.html), affective robot AI research at [Honda Research Institute Japan](http://www.jp.honda-ri.com), and multimodal robot AI research at [Facebook AI Research](https://ai.facebook.com/research/).
