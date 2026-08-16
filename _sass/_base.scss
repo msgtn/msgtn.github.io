@@ -22,25 +22,33 @@ h1, h2, h3, h4, h5 {
   text-rendering: optimizeLegibility;
   font-family: 'Times New Roman';
   text-transform: uppercase;
-  // transform: scale(0.6, 1);
-  transform: scaleY(2);
-  line-height: 0.8em;
+  line-height: 1em;
   // margin-top: 8em;
   // margin-bottom: 8em;
   // padding: 8em;
-  // transform-origin: 0%;
 }
 body h1 {
   // position: relative;
-  padding-top: 1.0em;
-  padding-bottom: 1.0em;
-  // margin-bottom: .5rem;
-  // margin-bottom: 5em;
+  // h1's font-size is doubled (7em) below, so these are halved to keep the
+  // same real spacing (0.5em * 7em = 1em * 3.5em) as before that change.
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
   z-index: -1;
 }
 
+// h1 is rendered at its full "stretched" font-size and squeezed back to the
+// original width with scaleX, rather than scaleY-stretching a smaller font.
+// This way the layout box's real height matches what's drawn, so wrapped
+// multi-line titles don't visually bleed into the header above or the date
+// below (a scaleY transform doesn't reserve the extra space it paints).
 h1 {
-  font-size: 3.5em;
+  font-size: 7em;
+  // Text wraps before the transform is applied, so the box is widened to
+  // 200% (matching the doubled font-size) to get the same wrap points as
+  // the original 3.5em text, then squeezed + anchored back to the left edge.
+  width: 200%;
+  transform: scaleX(0.5);
+  transform-origin: left;
 }
 h2, h3, h4, h5 {
   transform: scaleY(1.5);
