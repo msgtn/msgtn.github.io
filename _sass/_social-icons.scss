@@ -1,9 +1,9 @@
 @mixin social-media-icon($color, $transition){
-  -webkit-transition: $transition;
-  -o-transition: $transition;
-  -ms-transition: $transition;
-  -moz-transition: $transition;
-  transition: $transition;
+  -webkit-transition: color $transition;
+  -o-transition: color $transition;
+  -ms-transition: color $transition;
+  -moz-transition: color $transition;
+  transition: color $transition;
   &:hover{
     color: $color;
   }
